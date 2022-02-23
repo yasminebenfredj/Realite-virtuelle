@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>FS_simple.fsh</file>
+        <file>VS_simple.vsh</file>
+        <file>VS_simpler.vsh</file>
+        <file>FS_plan.fsh</file>
+        <file>VS_simple_texture.vsh</file>
+        <file>FS_simple_texture.fsh</file>
+        <file>FS_plan_texture.fsh</file>
+        <file>FS_planet_texture.fsh</file>
+        <file>FS_checker_texture.fsh</file>
+        <file>VS_cube_texture.vsh</file>
+        <file>FS_cube_texture.fsh</file>
+        <file>VS_skybox_texture.vsh</file>
+        <file>FS_skybox_texture.fsh</file>
+        <file>VS_lit_texture.vsh</file>
+        <file>FS_lit_texture.fsh</file>
+        <file>FS_lit_checker.fsh</file>
+        <file>VS_lit_texture_cube.vsh</file>
+        <file>VS_lit_cube.vsh</file>
+        <file>FS_lit_cube.fsh</file>
+        <file>FS_lit_specular_cube.fsh</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>wood.png</file>
+        <file>2k_earth_daymap.jpg</file>
+        <file>polytech_logo.jpg</file>
+        <file>Forest/negx.jpg</file>
+        <file>Forest/negy.jpg</file>
+        <file>Forest/negz.jpg</file>
+        <file>Forest/posx.jpg</file>
+        <file>Forest/posy.jpg</file>
+        <file>Forest/posz.jpg</file>
+        <file>sol2.jpg</file>
+        <file>3d-cube-textures/dice_texture.jpg</file>
+        <file>3d-cube-textures/pierre.jpg</file>
+        <file>planet.jpg</file>
+        <file>gold2.jpg</file>
+        <file>silver.jpg</file>
+        <file>Park3/negx.jpg</file>
+        <file>Park3/negy.jpg</file>
+        <file>Park3/negz.jpg</file>
+        <file>Park3/posx.jpg</file>
+        <file>Park3/posy.jpg</file>
+        <file>Park3/posz.jpg</file>
+        <file>SwedishRoyalCastle/negx.jpg</file>
+        <file>SwedishRoyalCastle/negy.jpg</file>
+        <file>SwedishRoyalCastle/negz.jpg</file>
+        <file>SwedishRoyalCastle/posx.jpg</file>
+        <file>SwedishRoyalCastle/posy.jpg</file>
+        <file>SwedishRoyalCastle/posz.jpg</file>
+        <file>2k_sun.jpg</file>
+    </qresource>
+</RCC>
